@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nix:home|Door43 (nix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nix|d43-nix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nix/archive/master.zip|d43-nix.zip]]
+
+**Recent Changes**
+{{changes>ns = nix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nix|Ethnologue data]]
+
